@@ -28,6 +28,14 @@
 
 ![image url](https://github.com/Chirs69143826/com1303/blob/main/Screenshot%202026-11-02%20135457.png?raw=true)
 
+หลังจากที่สร้างโปรเจคเสร็จแล้้วจะมีชื่อโปรเจคที่สร้างขึ้นในหน้าRepositoriesให้กดเข้าไป
+
+![image url](https://github.com/Chirs69143826/com1303/blob/main/Screenshot%202026-11-02%20135435.png?raw=true)
+
+หลังจากนั้นให้กดที่รูปดินสอเพิ่อเริ่มเขียนโปรแกรม
+
+![image url](https://github.com/Chirs69143826/com1303/blob/main/Screenshot%202026-11-02%20135548.png?raw=true)
+
 และหากเขียนเสร็จก็กดที่Commitเพื่อเซฟไฟ หลังจากที่เซฟไฟก็สามารถคัดลอกลิ้งเพื่อแบ่งให้คนอื่นดูด้วยได้
 
 [link](https://github.com/Chirs69143826/com1303.git)
