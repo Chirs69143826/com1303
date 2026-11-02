@@ -18,15 +18,15 @@
 
 สร้างบัญชีและเข้าสู่ระบบแล้วกดไปที่โปรไฟแล้วกดไปที่Repositories
 
-[image_url](https://github.com/Chirs69143826/com1303/blob/main/Screenshot%202026-11-02%20133458.png?raw=true)
+![image_url](https://github.com/Chirs69143826/com1303/blob/main/Screenshot%202026-11-02%20133458.png?raw=true)
 
 และกดที่Newเพื่อสร้างโปรเจคใหม่ 
 
-
+![image url](https://github.com/Chirs69143826/com1303/blob/main/Screenshot%202026-11-02%2013543115.png?raw=true)
 
 ก่อนจะตั้งชื่อที่ไม่ซ้ำกันก่อนจะเลื่อนลงไปกดCreate Repository
 
-
+!
 
 และหากเขียนเสร็จก็กดที่Commitเพื่อเซฟไฟ หลังจากที่เซฟไฟก็สามารถคัดลอกลิ้งเพื่อแบ่งให้คนอื่นดูด้วยได้
 
