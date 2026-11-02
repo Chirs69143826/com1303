@@ -1,4 +1,4 @@
-# สัปดาที่ 1
+# สัปดาที่ 1 
 ## 69143826 นายชาคริส พงศ์วรกิจ
 ## COM1303 การพัฒนาเว็บขั้นพื้นฐาน
 
@@ -37,5 +37,7 @@
 ![image url](https://github.com/Chirs69143826/com1303/blob/main/Screenshot%202026-11-02%20135548.png?raw=true)
 
 และหากเขียนเสร็จก็กดที่Commitเพื่อเซฟไฟ หลังจากที่เซฟไฟก็สามารถคัดลอกลิ้งเพื่อแบ่งให้คนอื่นดูด้วยได้
+
+![image url](https://github.com/Chirs69143826/com1303/blob/main/Screenshot%202026-11-02%20191532.png?raw=true)
 
 [link](https://github.com/Chirs69143826/com1303.git)
