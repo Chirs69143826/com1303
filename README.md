@@ -1,4 +1,4 @@
-<img width="1918" height="942" alt="image" src="https://github.com/user-attachments/assets/0146f44e-3e17-4901-93cd-b89db3cfcc66" /># สัปดาที่ 1
+# สัปดาที่ 1
 ## 69143826 นายชาคริส พงศ์วรกิจ
 ## COM1303 การพัฒนาเว็บขั้นพื้นฐาน
 
